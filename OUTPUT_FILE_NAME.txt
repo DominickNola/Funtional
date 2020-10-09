@@ -1,6 +1,0 @@
-
-Parameter n = 20,
-Parameter m = 2
-Done!
-Number of targeted palindromic sequences found: 824
-It took me 0s
